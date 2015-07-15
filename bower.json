@@ -1,0 +1,25 @@
+{
+  "name": "Developer Guidelines",
+  "version": "0.1.0",
+  "authors": [
+    "Paulo Alexandre <paulequilibrio@gmail.com>"
+  ],
+  "description": "Guidelines to help Developers to improve themselves",
+  "keywords": [
+    "Developer",
+    "Guidelines",
+    "improve",
+    "better",
+    "development",
+    "tutorial"
+  ],
+  "license": "GPLv2",
+  "homepage": "developerguidelines.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

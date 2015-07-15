@@ -10,26 +10,23 @@
   "author": {
     "name": "Developer Guidelines Team",
     "email": "contact@developerguidelines.com",
-    "url": "http://www.developerguidelines.com/"
+    "url": "https://developerguidelines.com/"
   },
-  "homepage": "http://www.developerguidelines.com/",
+  "homepage": "https://developerguidelines.com/",
   "repository": {
     "type": "git",
     "url": "https://github.com/developerguidelines/developerguidelines"
   },
-
   "engines": {
     "node": ">= 0.12.0",
     "npm": ">= 2.0.0"
   },
-
   "dependencies": {
     "express": "~4.0.0",
     "mongodb": "~2.0.0"
   },
   "devDependencies": {},
   "bundleDependencies": [],
-
   "private": true,
   "main": "server.js"
 }
